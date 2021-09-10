@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "winFormCrypto", "winFormCrypto.csproj", "{340DAA24-0022-4829-9892-8BB50F24C547}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{340DAA24-0022-4829-9892-8BB50F24C547}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{340DAA24-0022-4829-9892-8BB50F24C547}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{340DAA24-0022-4829-9892-8BB50F24C547}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{340DAA24-0022-4829-9892-8BB50F24C547}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EE313859-FF88-4018-AC6E-12206168931C}
+	EndGlobalSection
+EndGlobal
